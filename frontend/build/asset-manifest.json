@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8e1457b.chunk.css",
+    "main.js": "/static/js/main.0910d824.chunk.js",
+    "main.js.map": "/static/js/main.0910d824.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea18ab7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea18ab7a.js.map",
+    "static/css/2.165ff965.chunk.css": "/static/css/2.165ff965.chunk.css",
+    "static/js/2.bdeb5cbe.chunk.js": "/static/js/2.bdeb5cbe.chunk.js",
+    "static/js/2.bdeb5cbe.chunk.js.map": "/static/js/2.bdeb5cbe.chunk.js.map",
+    "static/js/3.635c0159.chunk.js": "/static/js/3.635c0159.chunk.js",
+    "static/js/3.635c0159.chunk.js.map": "/static/js/3.635c0159.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
+    "static/css/main.b8e1457b.chunk.css.map": "/static/css/main.b8e1457b.chunk.css.map",
+    "static/js/2.bdeb5cbe.chunk.js.LICENSE.txt": "/static/js/2.bdeb5cbe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/productsbanner.dc996736.jpg",
+    "static/media/cod.a3f9bff7.png": "/static/media/cod.a3f9bff7.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/tarkarilogo2.2886b8a2.png": "/static/media/tarkarilogo2.2886b8a2.png",
+    "static/media/whychooseusimg.c5d1de97.jpg": "/static/media/whychooseusimg.c5d1de97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea18ab7a.js",
+    "static/css/2.165ff965.chunk.css",
+    "static/js/2.bdeb5cbe.chunk.js",
+    "static/css/main.b8e1457b.chunk.css",
+    "static/js/main.0910d824.chunk.js"
+  ]
+}
